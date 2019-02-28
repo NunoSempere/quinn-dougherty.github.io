@@ -1,3 +1,7 @@
+---
+layout: post
+title: Jedi Texts
+---
 ![The sacred jedi texts](/img/sacredtexts.png)
 
 # I think everyone should read these
