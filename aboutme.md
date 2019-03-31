@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I've been grinding math and code since 2016, because that's around the time I started thinking it could change the world. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In another timeline, I was an improvisor, concert organizer, and composer. There were lots of failures, here's one of the successes. 
 
-What else do you need?
+<iframe width="420" height="315"
+src="https://youtu.be/Y6ZhOFhqtA4">
+</iframe> 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I also completed many questlines in the film industry-- they gave me a healthy pessimism, I find preparing for the worst to be very natural and almost relaxing in a real way. 
