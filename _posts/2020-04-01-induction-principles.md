@@ -1,3 +1,8 @@
+---
+layout: post
+title: Induction Principles
+---
+
 **Induction**, sometimes called _mathematical induction_, is a tool for reasoning about countably infinite structures. 
 Commonly, we can use something called a "proof by induction" to verify facts which reside in infinity.
 
